@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 21, 2024 (Example 1)
+### Day 0: August 21, 2024 
 
 
 **Today's Progress**: 1.did the MDN classes exercise 2.read about JSON 3.read about asynchronous programming(promsie)
@@ -14,10 +14,25 @@
 
 
 
-### Day 1: August 22, wednesday
+### Day 1: August 23, friday
+
+**Today's Progress**: tried to solve json test(faild)
+
+**Thoughts**: skipping json to focus on asynchronous first
+
+**to-do**:the last object project / asynchronous 
+
+**Link(s) to work**:none
+
+
+
+
+### Day 2: August 24, saturday
 
 **Today's Progress**: 
 
-**Thoughts** 
+**Thoughts**: 
 
-**Link(s) to work**
+**to-do**:
+
+**Link(s) to work**:none
