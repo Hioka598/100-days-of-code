@@ -42,7 +42,7 @@
 
 ### Day 4: August 26, monday
 
-**Today's Progress**: finished bouncing balls project
+**Today's Progress**: 1)finished bouncing balls project   2)Manipulating documents
 
 **Thoughts**: 
 
