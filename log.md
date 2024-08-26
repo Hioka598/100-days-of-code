@@ -29,10 +29,23 @@
 
 ### Day 2: August 24, saturday
 
-**Today's Progress**: 
+**Today's Progress**: trying to finish bouncing balls project
 
 **Thoughts**: 
 
 **to-do**:
 
 **Link(s) to work**:none
+
+
+
+
+### Day 4: August 26, monday
+
+**Today's Progress**: finished bouncing balls project
+
+**Thoughts**: 
+
+**to-do**: move to asynch + odin project + type
+
+**Link(s) to work**:bouncing ball folder in mdn
