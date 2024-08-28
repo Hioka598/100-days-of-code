@@ -49,3 +49,16 @@
 **to-do**: move to asynch + odin project + type
 
 **Link(s) to work**:bouncing ball folder in mdn
+
+
+
+
+### Day 5: August 27, teusday
+
+**Today's Progress**: 1)asynchronous > fetch - async and await intro     2)practiced typing >u-r-i-e      
+
+**Thoughts**: 
+
+**to-do**:🥓continue asynch + odin project + type
+
+**Link(s) to work**:none
