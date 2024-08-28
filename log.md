@@ -55,10 +55,10 @@
 
 ### Day 5: August 27, teusday
 
-**Today's Progress**: 1)asynchronous > fetch - async and await intro     2)practiced typing >u-r-i-e      
+**Today's Progress**: 1)asynchronous > fetch - async and await intro     2)practiced typing >u-r-i-e      3)odin how web works 1 & half of 2
 
 **Thoughts**: 
 
-**to-do**:🥓continue asynch + odin project + type
+**to-do**:🥓continue asynch + odin mozilla next steps + type
 
 **Link(s) to work**:none
