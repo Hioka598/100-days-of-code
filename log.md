@@ -62,3 +62,19 @@
 **to-do**:🥓continue asynch + odin mozilla next steps + type
 
 **Link(s) to work**:none
+
+
+
+
+### Day 6: August 28, wednesday
+
+**Today's Progress**: 1)promise based API and promise()     2)bunch of codewars      
+
+**Thoughts**: have no idea what promises are or what they're used for
+
+**to-do**:*using promises* / regular expressions
+
+**missed**: odin and type
+
+**Link(s) to work**:none
+
