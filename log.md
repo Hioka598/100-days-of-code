@@ -78,3 +78,18 @@
 
 **Link(s) to work**:none
 
+
+
+
+### Day 20: September 12, wednesday
+
+**Today's Progress**: codewars      
+
+**Thoughts**: 
+
+**to-do**:regular expressions
+
+**missed**: odin and type
+
+**Link(s) to work**:none
+
