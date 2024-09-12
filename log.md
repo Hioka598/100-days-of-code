@@ -89,7 +89,18 @@
 
 **to-do**:regular expressions
 
-**missed**: odin and type
+**Link(s) to work**:none
+
+
+
+
+### Day 21: September 13, thursday
+
+**Today's Progress**: codewars      
+
+**Thoughts**: 
+
+**to-do**:regular expressions, .reduce
 
 **Link(s) to work**:none
 
